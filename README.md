@@ -1,4 +1,4 @@
-# gdps-launcher
+# GDPS Launcher
 A launcher for Geometry Dash and GDPS made in Visual Studio.
 
 It contains the project and the launcher with the game included.

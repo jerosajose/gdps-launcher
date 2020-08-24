@@ -1,5 +1,5 @@
 # GDPS Launcher
-A launcher for Geometry Dash and GDPS made in Visual Studio.
+A launcher for Geometry Dash and GDPS made in Visual Basic.
 
 It contains the project and the launcher with the game included.
 The launcher uploaded was made for WGDPS, but you can also make a port

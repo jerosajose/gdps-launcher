@@ -1,0 +1,36 @@
+C:\Users\jeros\source\repos\JGDPS Launcher\bin\Debug\JGDPS Launcher.exe.config
+C:\Users\jeros\source\repos\JGDPS Launcher\bin\Debug\JGDPS Launcher.exe
+C:\Users\jeros\source\repos\JGDPS Launcher\bin\Debug\JGDPS Launcher.pdb
+C:\Users\jeros\source\repos\JGDPS Launcher\bin\Debug\JGDPS Launcher.xml
+C:\Users\jeros\source\repos\JGDPS Launcher\obj\Debug\JGDPS Launcher.vbprojAssemblyReference.cache
+C:\Users\jeros\source\repos\JGDPS Launcher\obj\Debug\JGDPS_Launcher.Form1.resources
+C:\Users\jeros\source\repos\JGDPS Launcher\obj\Debug\JGDPS_Launcher.Resources.resources
+C:\Users\jeros\source\repos\JGDPS Launcher\obj\Debug\JGDPS Launcher.vbproj.GenerateResource.cache
+C:\Users\jeros\source\repos\JGDPS Launcher\obj\Debug\JGDPS Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\jeros\source\repos\JGDPS Launcher\obj\Debug\JGDPS Launcher.exe
+C:\Users\jeros\source\repos\JGDPS Launcher\obj\Debug\JGDPS Launcher.xml
+C:\Users\jeros\source\repos\JGDPS Launcher\obj\Debug\JGDPS Launcher.pdb
+C:\Users\jeros\source\repos\JGDPS Launcher\obj\Debug\JGDPS_Launcher.Form2.resources
+C:\Users\jeros\source\repos\JGDPS Launcher\obj\Debug\JGDPS_Launcher.Form3.resources
+C:\Users\jeros\source\repos\JGDPS Launcher\obj\Debug\JGDPS_Launcher.Form4.resources
+C:\Users\jeros\source\repos\JGDPS Launcher\obj\Debug\JGDPS_Launcher.Form5.resources
+C:\Users\jeros\source\repos\JGDPS Launcher\obj\Debug\JGDPS_Launcher.DevZoneForm.resources
+C:\Users\jeros\source\repos\JGDPS Launcher\obj\Debug\JGDPS_Launcher.Form6.resources
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\bin\Debug\JGDPS Launcher.exe.config
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\bin\Debug\JGDPS Launcher.exe
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\bin\Debug\JGDPS Launcher.pdb
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\bin\Debug\JGDPS Launcher.xml
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\obj\Debug\JGDPS Launcher.vbprojAssemblyReference.cache
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\obj\Debug\JGDPS_Launcher.devzoneForm.resources
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\obj\Debug\JGDPS_Launcher.Form1.resources
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\obj\Debug\JGDPS_Launcher.Form2.resources
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\obj\Debug\JGDPS_Launcher.Form3.resources
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\obj\Debug\JGDPS_Launcher.Form4.resources
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\obj\Debug\JGDPS_Launcher.Form5.resources
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\obj\Debug\JGDPS_Launcher.Form6.resources
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\obj\Debug\JGDPS_Launcher.Resources.resources
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\obj\Debug\JGDPS Launcher.vbproj.GenerateResource.cache
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\obj\Debug\JGDPS Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\obj\Debug\JGDPS Launcher.exe
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\obj\Debug\JGDPS Launcher.xml
+C:\Users\jeros\source\repos\Newer WGDPS Launcher\obj\Debug\JGDPS Launcher.pdb

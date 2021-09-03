@@ -8,11 +8,7 @@ also make a port in Visual Studio 2019 to your own GDPS.
 
 ## Launcher info
 
-Version: 3.0
-Compile version: 1.0.0.0
-Release date: 10th Aug 2021
-Made by JerosGamer89 (Ascript89)
-Licensed under the GNU Lesser license
+Version: 3.0  |  Compile version: 1.0.0.0  |  Release date: 10th Aug 2021  |  Made by JerosGamer89 (Ascript89)  |  Licensed under the GNU Lesser license
 
 ## Compilation
 Please read this if you are going to compile the launcher by yourself.
